@@ -51,10 +51,10 @@ console.log(color(figlet.textSync('AzzBot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: SUPREME BITCH ','silver'))
-console.log(color('🐶 GITHUB: Dimsbotzz ','silver'))
-console.log(color('🐶 WA NUMBER: +6289603732786 ','silver'))
-console.log(color('  🦄Dimas Botzz Inc. 2022🦄','mediumseagreen'))
+console.log(color('\n🐶 YT CHANNEL: MBY•OFFICIAL ','silver'))
+console.log(color('🐶 GITHUB: AzzBott679 ','silver'))
+console.log(color('🐶 WA NUMBER: +6281511480762 ','silver'))
+console.log(color('  🦄AzzBot Inc. 2022🦄','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
@@ -66,7 +66,7 @@ console.log(color('  🦄Dimas Botzz Inc. 2022🦄','mediumseagreen'))
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['By Dimz','Chrome','1.0.0'],
+        browser: ['By Yahya','Chrome','1.0.0'],
         auth: state,
         version
     })
@@ -307,7 +307,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
         return status
     }
 	
-    XeonBotInc.public = true
+    XeonBotInc.public = false
 
     XeonBotInc.serializeM = (m) => smsg(XeonBotInc, m, store)
 
