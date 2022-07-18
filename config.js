@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6281229924227'] //ur owner number
+global.owner = ['6281229924227','6282137666456'] //ur owner number
 global.ownername = "DY"
 global.ytname = "-" //ur yt chanel name
 global.socialm = "GitHub: DY" //ur github or insta name
@@ -54,7 +54,7 @@ global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = ""
 global.author = "DYBOT"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.reactmoji = "🗿"
 global.ownertag = ['6281229924227'] //ur owner tag
 global.ownernummenu = ['6281229924227'] //ur owner number in menu and all
 global.watermark = "DY" //ur watermark
